@@ -1,16 +1,16 @@
 boomerang.factory('Config', function () {
     return {
         /* modify these */
-        'name'          : '', // GDG Name
-        'id'            : '', // GDG Google+ Page id
-        'google_api'    : '', // Google Cloud API
-        'pwa_id'        : '', // picasa web album id, must belong to Google+ id above
-        'domain'        : '', // custom domain or [your app].appspot.com
-        'youtube'       : '', // YouTube handle
-        'twitter'       : '', // Twitter handle
-        'meetup'        : '', // MeetUp handle
-        'facebook'      : '', // Facebook handle
-        'github'        : '', // GitHub handle
+        'name'          : 'GDG Philadelphia', // GDG Name
+        'id'            : '114727657292466806804', // GDG Google+ Page id
+        'google_api'    : 'AIzaSyBJhqtINYjcavoB99Xn5YUUGD-HSIrJCT8', // Google Cloud API
+        //'pwa_id'        : '', // picasa web album id, must belong to Google+ id above
+        'domain'        : 'gdgphila.appspot.com', // custom domain or [your app].appspot.com
+        //'youtube'       : '', // YouTube handle
+        'twitter'       : 'phillygdg', // Twitter handle
+        'meetup'        : 'AndroidAlliancePhilly', // MeetUp handle
+        //'facebook'      : '', // Facebook handle
+        //'github'        : '', // GitHub handle
         'cover' : {
             title : '[cover title]',
             subtitle : '[cover subtitle]',
