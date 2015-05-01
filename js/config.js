@@ -13,8 +13,8 @@ boomerang.factory('Config', function () {
         //'github'        : '', // GitHub handle
         'cover' : {
             title : 'GDG Philadelphia',
-            subtitle : 'Philly's own GDG Group!!,
-            url : '/images/[cover image]',
+            subtitle : 'GDG Group!!',
+            url : '/images/cover_image.jpg',
             button : {
                 text : 'Become a Member!',
                 url : 'https://developers.google.com/groups/chapter/114727657292466806804/'
