@@ -12,12 +12,12 @@ boomerang.factory('Config', function () {
         //'facebook'      : '', // Facebook handle
         //'github'        : '', // GitHub handle
         'cover' : {
-            title : '[cover title]',
-            subtitle : '[cover subtitle]',
+            title : 'GDG Philadelphia',
+            subtitle : 'Philly's own GDG Group!!,
             url : '/images/[cover image]',
             button : {
-                text : '[cover button text]',
-                url : 'http://'
+                text : 'Become a Member!',
+                url : 'https://developers.google.com/groups/chapter/114727657292466806804/'
             }
         },
         'sponsors' : {
